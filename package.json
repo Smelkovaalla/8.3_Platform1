@@ -1,11 +1,27 @@
 {
   "name": "@smelkovaalla/8.3_platform1",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smelkovaalla/8.3_Platform1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Smelkovaalla/8.3_Platform1/issues"
+  },
+  "homepage": "https://github.com/Smelkovaalla/8.3_Platform1#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.22.6",
+    "@babel/core": "^7.22.8",
+    "@babel/preset-env": "^7.22.7",
+    "babel-loader": "^9.1.3",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
 }
